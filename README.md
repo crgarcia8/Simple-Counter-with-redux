@@ -2,6 +2,10 @@
 
 This is a project for show a simple code for add redux to react
 
+## Example Live
+
+You can show this project live in https://crgarcia8.github.io/Simple-Counter-with-redux/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
