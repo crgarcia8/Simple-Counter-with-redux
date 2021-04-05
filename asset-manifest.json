@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Simple-Counter-with-redux/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Simple-Counter-with-redux/static/js/main.e384cc49.chunk.js",
+    "main.js.map": "/Simple-Counter-with-redux/static/js/main.e384cc49.chunk.js.map",
+    "runtime-main.js": "/Simple-Counter-with-redux/static/js/runtime-main.aec73302.js",
+    "runtime-main.js.map": "/Simple-Counter-with-redux/static/js/runtime-main.aec73302.js.map",
+    "static/js/2.f55f79de.chunk.js": "/Simple-Counter-with-redux/static/js/2.f55f79de.chunk.js",
+    "static/js/2.f55f79de.chunk.js.map": "/Simple-Counter-with-redux/static/js/2.f55f79de.chunk.js.map",
+    "static/js/3.eedd9e45.chunk.js": "/Simple-Counter-with-redux/static/js/3.eedd9e45.chunk.js",
+    "static/js/3.eedd9e45.chunk.js.map": "/Simple-Counter-with-redux/static/js/3.eedd9e45.chunk.js.map",
+    "index.html": "/Simple-Counter-with-redux/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Simple-Counter-with-redux/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f55f79de.chunk.js.LICENSE.txt": "/Simple-Counter-with-redux/static/js/2.f55f79de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Simple-Counter-with-redux/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec73302.js",
+    "static/js/2.f55f79de.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e384cc49.chunk.js"
+  ]
+}
