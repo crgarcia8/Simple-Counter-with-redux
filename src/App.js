@@ -6,7 +6,7 @@ import { add } from './Redux/Actions/actions';
 function App(props) {
   return (
     <>
-      <div>Count: {props.counter}</div>
+      <div>Count:  {props.counter}</div>
       <a href="#" onClick={() => props.add(1)}>Adicionar valor</a>
     </>
   );
