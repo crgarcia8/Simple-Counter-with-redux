@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Simple-Counter-with-redux/static/css/main.1635e87c.chunk.css",
-    "main.js": "/Simple-Counter-with-redux/static/js/main.e384cc49.chunk.js",
-    "main.js.map": "/Simple-Counter-with-redux/static/js/main.e384cc49.chunk.js.map",
+    "main.js": "/Simple-Counter-with-redux/static/js/main.ee0cf015.chunk.js",
+    "main.js.map": "/Simple-Counter-with-redux/static/js/main.ee0cf015.chunk.js.map",
     "runtime-main.js": "/Simple-Counter-with-redux/static/js/runtime-main.aec73302.js",
     "runtime-main.js.map": "/Simple-Counter-with-redux/static/js/runtime-main.aec73302.js.map",
     "static/js/2.f55f79de.chunk.js": "/Simple-Counter-with-redux/static/js/2.f55f79de.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aec73302.js",
     "static/js/2.f55f79de.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.e384cc49.chunk.js"
+    "static/js/main.ee0cf015.chunk.js"
   ]
 }
