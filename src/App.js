@@ -1,13 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 import { connect } from 'react-redux';
 import { add } from './Redux/Actions/actions';
 
 function App(props) {
+  const handleClick = (e) => {
+    e.preventDefault();
+    props.add(1)
+  }
   return (
     <>
-      <div>Count:  {props.counter}</div>
-      <a href="#" onClick={() => props.add(1)}>Adicionar valor</a>
+      <div>Count value:  {props.counter}</div>
+      <a href="/#" onClick={handleClick}>Adicionar valor</a>
     </>
   );
 }
