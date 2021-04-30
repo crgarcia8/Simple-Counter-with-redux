@@ -16,28 +16,18 @@ afterEach(() => {
   globalUnmount = null;
 })
 
-test('Show text "Count:"', () => {
-  const countElement = screen.getByText(/count:/i);
+test('Show text "count value:"', () => {
+  const countElement = screen.getByText(/count value:/i);
   expect(countElement).toBeInTheDocument();
 });
 test('Show count initial in 0', () => {
-  const countElement = screen.getByText(/count: 0/i);
+  const countElement = screen.getByText(/count value: 0/i);
   expect(countElement).toBeInTheDocument();
 });
 
 test('Show count 1 when click in "Adicionar Valor"', () => {
-  expect(screen.getByText(/count: 0/i)).toBeInTheDocument();
+  expect(screen.getByText(/count value: 0/i)).toBeInTheDocument();
   const linkElement = screen.getByText(/adicionar valor/i);
   fireEvent.click(linkElement);
-  expect(screen.getByText(/count: 1/i)).toBeInTheDocument();
-});
-
-test('Show count 5 when 5 clicks in "Adicionar Valor"', () => {
-  expect(screen.getByText(/count: 1/i)).toBeInTheDocument();
-  const linkElement = screen.getByText(/adicionar valor/i);
-  fireEvent.click(linkElement);
-  fireEvent.click(linkElement);
-  fireEvent.click(linkElement);
-  fireEvent.click(linkElement);
-  expect(screen.getByText(/count: 5/i)).toBeInTheDocument();
+  expect(screen.getByText(/count value: 1/i)).toBeInTheDocument();
 });
