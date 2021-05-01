@@ -11,7 +11,8 @@ function App(props) {
     <>
       <div>Count value:  {props.counter}</div>
       <a href="/#" onClick={handleClick}>Adicionar valor</a>
-      <div>New Value_</div>
+      <div>New Value</div>
+      <div>New Value</div>
     </>
   );
 }
