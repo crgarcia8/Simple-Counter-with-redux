@@ -13,8 +13,6 @@ function App(props) {
       <a href="/#" onClick={handleClick}>Adicionar valor</a>
       <div>New Value</div>
       <div>New Value</div>
-      <div>New Value</div>
-      <div>New Value</div>
     </>
   );
 }
